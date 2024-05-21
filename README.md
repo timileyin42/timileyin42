@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timileyin42
 - 👀 I’m interested in ... learning and growing on this tech path
-- 🌱 I’m currently learning ... cloud/software engineering
+- 🌱 I’m currently learning ... cloud/software engineering & devOps
 - 💞️ I’m looking to collaborate on ... learning and teaching of cloud engineering~software engineering 
 - 📫 How to reach me ... akanmuibro@gmail.com
 
