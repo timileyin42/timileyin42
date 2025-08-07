@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @timileyin42
-- 👀 I’m interested in ... learning and growing on this tech path
-- 💞️ I’m looking to collaborate on ...cloud engineering | software engineering | backend | devOps job
+- 👋 Hi, I’m IBRAHIM call me Maverick
+I'm focused on bringing business ideas and logic into life using code
+
+🔭 I’m actively working on Projects with FastAPI, Django & maybe NodeJs
+🌱 I’m currently Learning Golang
+💬 Ask me about Backend with Python, and also NodeJs
 - 📫 How to reach me ... akanmuibro@gmail.com
 
 <!---
