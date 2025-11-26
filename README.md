@@ -1,10 +1,60 @@
-- 👋 Hi, I’m IBRAHIM call me Maverick
-  I'm focused on bringing business ideas and logic into life using code
+# Hi — I’m Ibrahim (timileyin42) 👋
 
-- 🔭 I’m actively working on Projects with FastAPI, Django & maybe NodeJs
-- 🌱 I’m currently Learning Golang
-- 💬 Ask me about Backend with Python, and also NodeJs
-- 📫 How to reach me ... akanmuibro@gmail.com
+[![Profile views](https://komarev.com/ghpvc/?username=timileyin42&color=0e75b6)](https://github.com/timileyin42)
+
+I build scalable, maintainable web apps and backends that solve real problems. I enjoy well-tested code, thoughtful APIs, and great developer experience.
+
+- 🔭 Currently: building backend systems and developer tools
+- 🌱 Learning: advanced system design and distributed systems
+- 👯 Open to: collaboration on APIs, web apps, and DevOps automation
+- 💬 Ask me about: JavaScript/TypeScript, Node.js, backend architecture, and CI/CD
+- ⚡ Fun fact: I love turning complex problems into simple, delightful UX
+
+---
+
+## Featured Projects
+
+- delivery-backend — https://github.com/timileyin42/delivery-backend  
+  A production-ready backend service for delivery and order management, designed to handle real-time delivery tracking and driver assignment.  
+  Key features:
+  - RESTful API for orders, drivers, and delivery status
+  - Driver assignment logic and delivery status updates
+  - Authentication (JWT) and role-based access control
+  - Containerized with Docker; CI configured for tests and linting  
+    stack: Django, PostgreSQL, Redis, Docker, GitHub Actions.
+
+- ultimateco-planner — https://github.com/timileyin42/ultimateco-planner  
+  A planning and coordination mobile app backend to manage events, tasks, and team schedules with collaborative features.  
+  Key features (inferred):
+  - Calendar-based planning UI and task management
+  - Collaboration, notifications, and plan sharing
+  - Simple analytics or export options for plans
+  - Deployed on Netlify / Vercel with CI/CD  
+    stack: FAstAPi, Docker, GCP, Redis, PostgreSQL  
+
+- irxcruit-backed — https://github.com/timileyin42/irxcruit-backed  
+  Backend service powering a recruitment platform — job postings, candidate profiles, and application management.  
+  Key features:
+  - Job posting endpoints and candidate application workflows
+  - Resume parsing / matching helper utilities
+  - Administrative endpoints and role-based access
+  - Tests, Docker setup, and CI pipeline  
+    stack: FastAPI, PostgreSQL, Docker.  
+
+---
+
+## Tech & Tools
+JavaScript · TypeScript · Node.js · Express · React · Next.js · PostgreSQL · MongoDB · Docker · GitHub Actions · Jest · CI/CD · Tailwind
+
+## GitHub Stats
+[![Timileyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=timileyin42&show_icons=true&include_all_commits=true&count_private=true&theme=default)](https://github.com/timileyin42)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timileyin42&layout=compact&theme=default)](https://github.com/timileyin42)
+
+## Connect
+- Website: https://ibrahimakanmu.netlify.app/  
+- LinkedIn: https://www.linkedin.com/in/ibrahim-akanmu-a3159b266/  
+- X: https://x.com/maverick_42251  
+- Email: akanmuibro@gmail.com
 
 <!---
 timileyin42/timileyin42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
