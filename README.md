@@ -47,8 +47,16 @@ I build scalable, maintainable web apps and backends that solve real problems. I
 JavaScript · TypeScript · Node.js · Express · React · Next.js · PostgreSQL · MongoDB · Docker · GitHub Actions · Jest · CI/CD · Tailwind
 
 ## GitHub Stats
-[![Timileyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=timileyin42&show_icons=true&include_all_commits=true&count_private=true&theme=default)](https://github.com/timileyin42)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=timileyin42&show_icons=true&theme=default)](https://github.com/timileyin42)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timileyin42&layout=compact&theme=default)](https://github.com/timileyin42)
+
+<!-- HTML fallback (if markdown image stripped) -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=timileyin42&show_icons=true&theme=default" alt="Timileyin's GitHub stats" />
+
+<!-- Reliable Shield badges fallback -->
+[![Followers](https://img.shields.io/github/followers/timileyin42?label=Followers&style=social)](https://github.com/timileyin42)
+[![Stars](https://img.shields.io/github/stars/timileyin42?style=social)](https://github.com/timileyin42)
 
 ## Connect
 - Website: https://ibrahimakanmu.netlify.app/  
