@@ -5,10 +5,10 @@
 I build scalable, maintainable web apps and backends that solve real problems. I enjoy well-tested code, thoughtful APIs, and great developer experience.
 
 - 🔭 Currently: building backend systems and developer tools
-- 🌱 Learning: advanced system design and distributed systems
+- 🌱 Learning: advanced system design and distributed systems(GoLang)
 - 👯 Open to: collaboration on APIs, web apps, and DevOps automation
 - 💬 Ask me about: JavaScript/TypeScript, Node.js, backend architecture, and CI/CD
-- ⚡ Fun fact: I love turning complex problems into simple, delightful UX
+- ⚡ Fun fact: I love hunting down and fixing backend bottlenecks
 
 ---
 
@@ -25,7 +25,7 @@ I build scalable, maintainable web apps and backends that solve real problems. I
 
 - ultimateco-planner — https://github.com/timileyin42/ultimateco-planner  
   A planning and coordination mobile app backend to manage events, tasks, and team schedules with collaborative features.  
-  Key features (inferred):
+  Key features :
   - Calendar-based planning UI and task management
   - Collaboration, notifications, and plan sharing
   - Simple analytics or export options for plans
