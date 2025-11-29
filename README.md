@@ -14,7 +14,7 @@ I build scalable, maintainable web apps and backends that solve real problems. I
 
 ## Featured Projects
 
-- delivery-backend — https://github.com/timileyin42/delivery-backend  
+- delivery-backend — https://github.com/timileyin42/Delivery_backend  
   A production-ready backend service for delivery and order management, designed to handle real-time delivery tracking and driver assignment.  
   Key features:
   - RESTful API for orders, drivers, and delivery status
